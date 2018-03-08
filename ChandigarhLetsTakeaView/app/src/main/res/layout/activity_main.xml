@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".MainActivity"
+        android:orientation="vertical"
+        android:id="@+id/score_toast">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:src="@drawable/rock_garden"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp"
+            android:id="@+id/rock"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/rock_garden_text"
+            android:textSize="16sp"
+            android:layout_marginLeft="16dp"
+            android:textColor="#000000"/>
+
+       <ImageView
+           android:layout_width="match_parent"
+           android:layout_height="200dp"
+           android:src="@drawable/sukhna_lake"
+           android:layout_margin="16dp"
+           android:id="@+id/sukna"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/sukna_lake_text"
+            android:textSize="16sp"
+            android:layout_marginLeft="16dp"
+            android:textColor="#000000"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="200dp" 
+            android:src="@drawable/rose_garden"
+            android:layout_margin="16dp"
+            android:id="@+id/rose"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/rose_garden_text"
+            android:textSize="16sp"
+            android:layout_marginLeft="16dp"
+            android:textColor="#000000"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:src="@drawable/high_court"
+            android:layout_margin="16dp"
+            android:id="@+id/high_court"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/high_court_text"
+            android:textSize="16sp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginBottom="16dp"
+            android:textColor="#000000"/>
+
+    </LinearLayout>
+
+</ScrollView>
+

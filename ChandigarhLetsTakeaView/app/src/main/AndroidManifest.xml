@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.android.chandigarh_letstakeaview">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".sukhna_lake"
+            android:label="Sukhna lake"
+            android:parentActivityName=".MainActivity"/>
+        <activity android:name=".rock_garden"
+            android:parentActivityName=".MainActivity"
+            android:label="Rock Garden"/>
+        <activity android:name=".high_court"
+            android:parentActivityName=".MainActivity"
+            android:label="High Court"/>
+        <activity android:name=".rose_garden"
+            android:parentActivityName=".MainActivity"
+            android:label="Rose Garden"></activity>
+    </application>
+
+</manifest>

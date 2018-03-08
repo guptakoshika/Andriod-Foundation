@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Chandigarh-Let\'s Take a View</string>
+    <string name="rock_garden_text">Rock Garden- A scupltured piece of art.</string>
+    <string name="rose_garden_text">Rose Garden- A beautiful place to visit.</string>
+    <string name="sukna_lake_text">Sukhna lake-A reservior.</string>
+    <string name="high_court_text">High court-
+        A common high court.</string>
+<string name="swipe">swipe>>></string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="rock_info">The Rock Garden of Chandigarh is a sculpture garden in Chandigarh, India.
+        It is also known as Nek Chand Rock Garden after its founder Nek Chand, a government official who started the garden secretly in his spare time in 1957. Today it is spread over an area of 40 acres (161874.25 m²). It is completely built of industrial and home waste and thrown-away items.
+</string>
+    <string name="sukhna_event1">budha</string>
+    <string name="sukhna_event2">Boating</string>
+    <string name="sukhna_event3">path</string>
+    <string name="sukhna_description1">Statue of bhudha situated at lake.</string>
+    <string name="sukhna_description2">Statue of bhudha situated at lake.</string>
+    <string name="sukhna_description3">In the evening lake becomes a peaceful.</string>
+
+    <string name="high_event1">Lahore high court.</string>
+    <string name="high_event2">Extraterritorial jurisdiction</string>
+    <string name="high_event3">Moved to chandigarh</string>
+    <string name="high_event4">Present Form</string>
+    <string name="high_description1">Established on 21 march 1919</string>
+    <string name="high_description2">From 1920 to 1943</string>
+    <string name="high_description3">From 17 january 1955</string>
+    <string name="high_description14">Since 1 November 1966</string>
+
+    <string name="rose_event1">Rose Festival</string>
+    <string name="rose_event2">Flower Arragments</string>
+    <string name="rose_event3">Flower Hat competition</string>
+    <string name="rose_event4">Brass and Pipe competition</string>
+    <string name="rose_event5">Folk Dance competition</string>
+    <string name="rose_description1">every year in feburary last weak</string>
+    <string name="rose_description2">Any flower arrangments and home gardens are welcomed</string>
+    <string name="rose_description3">Beautiful flower hats at festival</string>
+    <string name="rose_description4">A pipe band is a musical ensemble consisting of pipers and drummers.</string>
+    <string name="rose_description5">It adds more colours and fum to the Festival</string>
+
+</resources>
